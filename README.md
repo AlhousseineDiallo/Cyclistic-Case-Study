@@ -1,4 +1,4 @@
-# Documentation Technique - Projet de Partage de Vélos Cyclistic
+# Documentation Technique - Cyclistic Case Study
 
 ### Structure du Répertoire
 Le projet est structuré comme suit :
