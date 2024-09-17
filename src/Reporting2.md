@@ -17,10 +17,11 @@ Les données couvrent une année complète de trajets, et les étapes suivantes 
 
 ## 4. Analyse des Données
 
-### Capture d'écran du Tableau de Bord
-![Tableau de Bord Cyclistic](C:\Users\bad\Pictures\Screenshots\Capture d'écran 2024-09-17 090436.png)
+### . Capture d'écran du Tableau de Bord
+![Tableau de Bord Cyclistic](![image](https://github.com/user-attachments/assets/abaa61f7-1028-4ba7-a3f7-55a949bc79ae)
+)
 
-### Lien vers le Tableau de Bord sur Tableau Public
+### . Lien vers le Tableau de Bord sur Tableau Public
 Pour explorer le tableau de bord interactif, veuillez visiter le lien suivant :  
 [Tableau de Bord Cyclistic sur Tableau Public](https://public.tableau.com/app/profile/alseiny.diallo/viz/CyclisticCaseStudy_17265589409460/DivvyDashboard?publish=yes)
 
