@@ -8,7 +8,7 @@ Le projet est structuré comme suit :
 - **src/** : Ce dossier contient le code source, les datasets et les fichiers liés à l'analyse.
   - **data/** : Ce sous-dossier contient les fichiers de données.
     - **data** : Contient les fichiers ZIP des différentes données utilisées pour le projet.
-  - **notebook.ipynb/** : Contient les notebooks Jupyter pour l'analyse exploratoire et le prétraitement des données.
+  - **notebook.ipynb/** : Contient le notebook Jupyter de l'analyse exploratoire et du prétraitement des données.
   - **Tableau Dashboard/** : Contient les tableaux de bord créés avec Tableau pour la visualisation des données.
   - **Reporting/** : Contient les rapports générés à partir des analyses.
 
