@@ -3,7 +3,7 @@
 ### Structure du Répertoire
 Le projet est structuré comme suit :
 
-- **README.md** : Ce fichier fournit une vue d'ensemble du projet, les objectifs, et les instructions d'utilisation.
+- **README.md** : Ce fichier fournit une vue d'ensemble sur la documentation technique du projet.
 
 - **src/** : Ce dossier contient le code source et les fichiers liés à l'analyse.
   - **data/** : Ce sous-dossier contient les fichiers de données.
