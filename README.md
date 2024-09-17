@@ -5,7 +5,7 @@ Le projet est structuré comme suit :
 
 - **README.md** : Ce fichier fournit une vue d'ensemble sur la documentation technique du projet.
 
-- **src/** : Ce dossier contient le code source et les fichiers liés à l'analyse.
+- **src/** : Ce dossier contient le code source, les datasets et les fichiers liés à l'analyse.
   - **data/** : Ce sous-dossier contient les fichiers de données.
     - **data.zip** : Contient les fichiers ZIP des différentes données utilisées pour le projet.
   - **notebook/** : Ce dossier contient les notebooks Jupyter pour l'analyse exploratoire et le prétraitement des données.
